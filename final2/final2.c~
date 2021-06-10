@@ -1,0 +1,17 @@
+/*
+ * final2.c
+ *
+ * Created: 6/7/2021 10:27:32 AM
+ * Author: DASTAN
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
